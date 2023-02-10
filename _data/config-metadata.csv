@@ -1,10 +1,10 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
+title,Título,
+creator,Creador,
+date,Fecha de creación,
+description,Descripción,
+subject,Temas,true
+location,Locación
 latitude,Latitude
 longitude,Longitude
 source,Source
